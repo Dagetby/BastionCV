@@ -1,0 +1,15 @@
+mode: set
+BastionCV/counter.go:15.13,35.20 10 0
+BastionCV/counter.go:55.2,60.7 4 0
+BastionCV/counter.go:35.20,41.13 4 0
+BastionCV/counter.go:41.13,45.18 3 0
+BastionCV/counter.go:49.4,52.14 2 0
+BastionCV/counter.go:45.18,47.5 1 0
+BastionCV/counter.go:64.48,66.16 2 1
+BastionCV/counter.go:70.2,70.38 1 1
+BastionCV/counter.go:75.2,83.19 6 1
+BastionCV/counter.go:66.16,68.3 1 1
+BastionCV/counter.go:70.38,73.3 2 1
+BastionCV/counter.go:86.53,89.26 2 0
+BastionCV/counter.go:92.2,94.19 2 0
+BastionCV/counter.go:89.26,91.3 1 0
